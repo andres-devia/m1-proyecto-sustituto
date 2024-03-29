@@ -2,3 +2,6 @@
 
 # Miembros del grupo
 Jorge Andrés Cardeño Devia, CC 1152220936, Ingeniería de Sistemas
+
+# Competición
+https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis
