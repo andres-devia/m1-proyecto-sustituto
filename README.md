@@ -1,4 +1,4 @@
-# Repositorio para las entregas de los proyectos de la materia Modelos 1
+# Modelos 1 proyecto alternativo
 
 # Miembros del grupo
 Jorge Andrés Cardeño Devia, CC 1152220936, Ingeniería de Sistemas
