@@ -9,3 +9,12 @@ El conjunto de datos ofrece información completa sobre los factores de salud qu
 
 # Para descargar los datos manualmente
 https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis
+
+# Fase 2
+Para ejecutar el contenedor con éxito:
+
+Imagen del contenedor:
+docker build -t models_scripts
+
+Para correr el contenedor:
+docker run -it --rm models_scripts
