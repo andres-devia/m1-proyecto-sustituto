@@ -1,0 +1,1372 @@
+Id,Age,Gender,Hormonal Changes,Family History,Race/Ethnicity,Body Weight,Calcium Intake,Vitamin D Intake,Physical Activity,Smoking,Alcohol Consumption,Medical Conditions,Medications,Prior Fractures
+1326235,72,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1479987,86,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1510473,22,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,,,No
+1895897,20,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,,,Yes
+1721115,70,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1927977,40,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1198793,70,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1546254,54,Male,Normal,No,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1507395,34,Male,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1322699,90,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1596592,18,Male,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1769848,68,Male,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1728003,62,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,No,Moderate,,Corticosteroids,No
+1343538,21,Female,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1893749,79,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1919621,82,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1147893,49,Male,Normal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1677192,51,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1815496,89,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1237807,56,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1591495,43,Male,Normal,No,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1488628,51,Female,Normal,No,Asian,Underweight,Low,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1680524,71,Male,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,,,,Yes
+1534517,20,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,,,,No
+1239829,67,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1125247,29,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1604029,82,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,,No
+1149408,71,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1824759,22,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,,,Yes
+1678161,74,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1900337,34,Female,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,,,Corticosteroids,Yes
+1510124,64,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1640774,40,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1377785,31,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,,,,Yes
+1594053,83,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1503095,68,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,No,,,,No
+1472535,55,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1887074,81,Male,Normal,Yes,African American,Underweight,Adequate,Insufficient,Active,No,,,,Yes
+1201953,55,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1633137,67,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1772301,47,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1104327,68,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1879739,80,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1655573,69,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1231890,55,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1885852,47,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1310265,68,Female,Normal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,Moderate,,,No
+1680993,22,Male,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1108112,46,Female,Normal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1354799,21,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1754766,27,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,,,No
+1778762,73,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1231192,34,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,,,No
+1487110,34,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1452678,86,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1501421,51,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,No
+1689162,23,Male,Normal,No,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1914157,70,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1801087,83,Female,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1941095,60,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1314117,40,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1559220,72,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,,,Yes
+1998130,33,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,,,,No
+1880171,25,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1175479,21,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1447733,21,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1295107,73,Male,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1152501,42,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,,,Yes
+1537715,84,Male,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1721485,84,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,,No
+1400556,44,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,,,Corticosteroids,Yes
+1788964,49,Female,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1982718,67,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1531292,78,Male,Normal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,,,Yes
+1960817,68,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1268687,36,Female,Normal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1198904,38,Female,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1403153,22,Female,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1223204,59,Male,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,,,No
+1373536,78,Female,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1129408,39,Male,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1484586,38,Male,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,No,,Hyperthyroidism,,No
+1484961,87,Female,Normal,No,African American,Underweight,Adequate,Insufficient,Active,Yes,,,,Yes
+1387804,18,Male,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1377097,29,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1517820,63,Male,Normal,No,Asian,Underweight,Low,Sufficient,Active,Yes,,,,Yes
+1711028,51,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,No,,,,No
+1119405,66,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1295420,62,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1667883,44,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1465366,90,Male,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1663417,43,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1147330,64,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1207581,73,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1692769,80,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,No,,,Corticosteroids,Yes
+1983857,65,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1811003,78,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1110550,43,Male,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1148094,53,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1872496,18,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1604248,25,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,,,No
+1103215,69,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,No
+1125727,64,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1683204,73,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1517449,31,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1966403,45,Male,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1930043,19,Male,Normal,No,Asian,Underweight,Low,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1710102,43,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1243813,31,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1837069,76,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1618249,73,Male,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1257433,24,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,No,,,Corticosteroids,No
+1288415,20,Female,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,No,,,Corticosteroids,Yes
+1929361,40,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1270588,35,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1795638,55,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1834844,32,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1100709,81,Male,Normal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1907860,45,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1791401,56,Female,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1706796,74,Female,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1255200,34,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1130944,61,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1376293,42,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1141845,30,Male,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1934313,42,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1680469,85,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1145824,27,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,,No
+1890059,84,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1844134,35,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,,Corticosteroids,Yes
+1993951,51,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1689460,25,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1137334,57,Male,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1311276,59,Female,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1648571,58,Female,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1269974,23,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,,,,No
+1300734,69,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1461180,43,Female,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1762519,81,Female,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,,,No
+1326402,76,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1714917,73,Male,Normal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1482002,76,Male,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1316174,87,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1718194,50,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,Yes,Moderate,,,No
+1592936,70,Male,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1146992,39,Male,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1628409,38,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,,,Corticosteroids,No
+1617668,87,Male,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,,,Yes
+1921832,87,Male,Normal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1474150,21,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1947977,79,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,,,Yes
+1478705,79,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1403262,41,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1621699,72,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1705275,26,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1214378,48,Male,Normal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1483160,57,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1620209,53,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1468366,41,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,,,Yes
+1340630,23,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,,,No
+1602173,83,Male,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Active,No,Moderate,,,Yes
+1280851,21,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1380279,23,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1739707,68,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,No,,,Corticosteroids,No
+1351055,79,Male,Normal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1203598,74,Female,Normal,No,African American,Normal,Adequate,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1296716,83,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1839660,25,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1334366,43,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1679496,68,Female,Normal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1125483,62,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1471004,61,Male,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1433551,22,Female,Normal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1459615,87,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1878176,43,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1446397,85,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1357169,36,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,,,No
+1770611,37,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1278157,29,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,No,,,,No
+1927663,64,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1147194,18,Female,Normal,No,African American,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1433820,31,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1772855,81,Male,Normal,No,Caucasian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,,No
+1570718,55,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1715976,54,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1885109,28,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1294214,50,Male,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1864281,23,Male,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1818589,67,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1571749,27,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,,,Yes
+1292797,22,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1803406,40,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Active,No,,,,No
+1367479,27,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1538821,61,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1337631,30,Male,Normal,No,African American,Normal,Low,Insufficient,Active,Yes,Moderate,,,Yes
+1119423,57,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1390361,82,Female,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1594619,80,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1358700,90,Male,Normal,No,African American,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1578370,34,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1682723,26,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1229042,32,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1344598,41,Female,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1439507,55,Male,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1807832,52,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1360193,66,Male,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1702036,86,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1419044,79,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1221484,77,Female,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1210417,67,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,,No
+1276291,26,Male,Normal,No,Asian,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1972833,51,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1869282,52,Female,Normal,Yes,African American,Underweight,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1924868,18,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,,,,Yes
+1717103,57,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1153170,81,Female,Normal,No,African American,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1266514,39,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1508616,77,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1711576,81,Male,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1213887,89,Male,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1509469,28,Female,Normal,Yes,African American,Normal,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1131927,31,Male,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1201103,77,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1549448,47,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1654969,52,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1810263,54,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1427339,43,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,No,,,Corticosteroids,No
+1603743,79,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,,,No
+1902628,21,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,,Corticosteroids,Yes
+1561862,59,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1640393,35,Female,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1935757,57,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1165497,89,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1750373,56,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1545357,31,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1651471,49,Female,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1468280,68,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1143485,55,Male,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1138505,40,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,,,No
+1143525,80,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1865525,32,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1128016,42,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,No,,,Corticosteroids,Yes
+1995308,83,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,,,,No
+1734103,70,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1764469,68,Female,Normal,No,African American,Normal,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1613938,56,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1581433,68,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1823633,87,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,,,No
+1322185,23,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1435413,84,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1117828,24,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,Moderate,,,No
+1474023,68,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1662155,89,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,No
+1840829,59,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1922615,81,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1164633,32,Male,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1783412,46,Female,Normal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1155827,50,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1919629,44,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,Moderate,,,Yes
+1379594,53,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,,,No
+1746195,46,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1307111,55,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,,,No
+1588738,74,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,,Corticosteroids,No
+1298286,44,Male,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,,,Yes
+1611705,72,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1347893,50,Female,Normal,No,African American,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1122811,85,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1238655,83,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1214385,27,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1946032,22,Male,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1257930,55,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,,,No
+1462674,30,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1149354,48,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1904614,64,Male,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1758468,69,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1426951,73,Female,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1503080,32,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1354060,46,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1296491,25,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1384951,22,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1159347,46,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Active,No,,,,Yes
+1219000,64,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1704647,85,Female,Normal,Yes,African American,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1909446,62,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1193928,19,Female,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1155539,44,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1937587,53,Female,Normal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,,,No
+1883186,53,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,,,Corticosteroids,No
+1751529,43,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1679166,60,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1243916,44,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1206111,86,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,,Hyperthyroidism,,No
+1100064,37,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1435656,28,Female,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1569089,55,Female,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1842245,23,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,,,Yes
+1945148,89,Male,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1426468,40,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1124320,64,Female,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1814059,63,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1740344,29,Male,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1871512,30,Female,Normal,Yes,Asian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1921802,79,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1897201,77,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1252772,60,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1519508,85,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1536613,22,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Sedentary,No,,,,Yes
+1809035,54,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1238257,89,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1378809,48,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1656498,26,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1585642,68,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1418434,46,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,No,,,,No
+1442676,57,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1718450,58,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1770977,28,Male,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1633559,40,Female,Normal,Yes,African American,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,No
+1186283,18,Female,Normal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1396352,63,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1582667,38,Male,Normal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1362768,53,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1877313,71,Female,Normal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,,,Corticosteroids,No
+1980020,74,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1142357,18,Female,Normal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1775939,80,Female,Normal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,,,Corticosteroids,No
+1582822,71,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1564285,72,Female,Normal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1448136,57,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1113387,32,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1526710,38,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1212879,64,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1644659,90,Female,Normal,No,Asian,Underweight,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1938725,70,Male,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1713761,26,Male,Normal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1440652,69,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1706238,74,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1462168,43,Male,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1896858,58,Female,Normal,No,Asian,Underweight,Adequate,Insufficient,Active,No,Moderate,,,Yes
+1364919,52,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1948033,80,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,,,,No
+1113760,42,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1925099,55,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,No
+1861191,19,Female,Normal,No,Asian,Underweight,Low,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1641279,24,Female,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1310466,51,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1430858,34,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1788014,60,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1623906,76,Female,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1896318,68,Male,Normal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,No,,,,Yes
+1641163,71,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1318952,41,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1797574,42,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1812772,88,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1485095,69,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1789848,87,Male,Normal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1124083,50,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1420047,66,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1501920,46,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1593236,80,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1964355,39,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1515275,43,Male,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1725430,45,Male,Normal,No,Asian,Underweight,Low,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1286588,66,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1983329,88,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1266717,66,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1926525,37,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1955095,80,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1539306,78,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1893061,66,Female,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1973504,88,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1133047,30,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1203093,68,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1848133,73,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1467693,79,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,No
+1300534,49,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1500855,47,Male,Normal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1106022,46,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1120801,66,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1834350,62,Male,Postmenopausal,No,Asian,Underweight,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1118970,47,Male,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,No,,,Corticosteroids,Yes
+1702901,33,Male,Normal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1266576,57,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1104179,36,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,,,Corticosteroids,Yes
+1284371,35,Male,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,,,No
+1143757,18,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1466057,64,Male,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1167857,83,Male,Normal,No,African American,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1849905,55,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,Yes,,,,No
+1294062,68,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1399653,80,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,,,Yes
+1267808,18,Male,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1542334,25,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,No,,,Corticosteroids,Yes
+1174538,21,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1267227,20,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,,No
+1702812,18,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1380765,22,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1117234,20,Male,Normal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1272440,34,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1744784,22,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1324313,34,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1152063,23,Male,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1657074,35,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1494870,19,Male,Normal,No,Asian,Underweight,Low,Insufficient,Active,Yes,,,Corticosteroids,No
+1347282,29,Male,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1862225,34,Male,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1545983,18,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1158859,22,Male,Normal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,,,No
+1243158,20,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1136798,35,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1594014,20,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1763595,18,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1109578,38,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1882735,19,Male,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1493201,18,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1765531,19,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,No,Moderate,,,Yes
+1827946,22,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1534215,35,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1424314,29,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1952835,19,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,Yes,,,,No
+1914268,29,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1571488,18,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1807585,29,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1939056,38,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1311586,26,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1189542,23,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1961770,38,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1368602,21,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,No,,,,Yes
+1957156,20,Male,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1929201,18,Female,Normal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,,,Yes
+1538897,26,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1608590,25,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1743952,19,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Active,No,,,,Yes
+1175679,34,Male,Normal,No,Asian,Underweight,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1665854,25,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1850327,18,Female,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1600667,29,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1631411,38,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,,,,No
+1278828,22,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,No,,,,Yes
+1396907,19,Female,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1264429,20,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1758796,20,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1493510,26,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,No,,,,No
+1547124,21,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1942209,18,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1821391,23,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1334469,19,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1424986,34,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,,,,No
+1799181,21,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1868327,34,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1717725,35,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1890667,29,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1344020,20,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1381420,29,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1656320,18,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1704707,38,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1124492,29,Female,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1940223,35,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1599654,21,Male,Postmenopausal,No,Asian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1687118,21,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1521286,18,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,,,Corticosteroids,Yes
+1519594,18,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1306279,21,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1875140,38,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1475051,21,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,No
+1696775,20,Female,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1304509,29,Female,Normal,No,African American,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1495730,34,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1264545,18,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1661159,19,Male,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1827370,18,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1158127,29,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1594920,20,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1577988,29,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1264454,35,Male,Normal,No,African American,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1178387,19,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1502832,18,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,,,No
+1971446,29,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,,No
+1944814,26,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1675213,22,Male,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1529327,34,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1773221,34,Female,Normal,No,African American,Underweight,Low,Insufficient,Sedentary,Yes,,,,No
+1151091,19,Female,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1496517,20,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Active,No,,,Corticosteroids,Yes
+1904803,34,Female,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1699262,34,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1912300,22,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,,Hyperthyroidism,,No
+1481393,21,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1112559,21,Male,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,,,Yes
+1909949,29,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1158044,34,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1834441,19,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1793395,34,Female,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1238490,29,Male,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1537143,19,Female,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1980261,19,Female,Normal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1880671,22,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,,,Corticosteroids,No
+1913106,18,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1657076,19,Male,Normal,No,African American,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1682288,20,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1762181,23,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1197792,34,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1777069,19,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,,,No
+1687610,19,Male,Normal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1182764,21,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1691750,29,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1169669,18,Female,Normal,No,Asian,Underweight,Adequate,Insufficient,Active,No,,Hyperthyroidism,,No
+1483077,19,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1871504,20,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1724830,20,Female,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1532973,21,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1539496,20,Male,Normal,No,African American,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1211907,20,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1847202,23,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1692249,18,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1260547,25,Female,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1413429,19,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1361271,35,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,,,No
+1703513,18,Male,Normal,No,African American,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1272272,38,Female,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1920490,22,Female,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1666633,29,Male,Normal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,,,,Yes
+1270471,34,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1908945,23,Male,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1627815,19,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1733714,34,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1767161,21,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1180333,19,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1686502,34,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1473238,34,Female,Postmenopausal,No,African American,Normal,Low,Sufficient,Active,No,,,Corticosteroids,Yes
+1370256,21,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1864994,34,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1248518,38,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1979238,29,Male,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,,,No
+1453000,20,Female,Normal,No,African American,Underweight,Low,Insufficient,Active,Yes,,,,No
+1754826,34,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,No,Moderate,,,Yes
+1405290,35,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1882468,35,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1339454,18,Male,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1771719,19,Male,Normal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1161799,21,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1835526,38,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,,,No
+1793435,35,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,,,Yes
+1888812,29,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1830455,21,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,,,,No
+1260530,29,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1761742,18,Male,Normal,No,Asian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1356891,18,Male,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1463920,22,Male,Postmenopausal,No,Asian,Underweight,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1165822,29,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,,,Corticosteroids,Yes
+1443106,19,Male,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1240116,29,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1734150,21,Female,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,No,,,Corticosteroids,No
+1770776,25,Female,Normal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1699753,20,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1834153,22,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1517432,18,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1776040,29,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1449354,21,Female,Normal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1508055,22,Male,Normal,No,African American,Normal,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1750527,38,Female,Normal,No,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1988955,18,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,,,Yes
+1972569,29,Female,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1270971,20,Female,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1755582,38,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1132654,19,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1318580,19,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,No
+1679411,38,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1380034,34,Male,Normal,No,Asian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1905142,21,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1990398,22,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1611558,25,Male,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1535789,34,Male,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,,,Yes
+1890546,29,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1276007,23,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,,,Corticosteroids,No
+1371922,18,Female,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,,,Yes
+1135570,22,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1870565,23,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1858922,21,Male,Normal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1443445,29,Male,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1768950,22,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1898502,19,Male,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1516200,18,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,Moderate,,,No
+1926364,21,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Active,Yes,Moderate,,,No
+1748261,20,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1736465,22,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,,Corticosteroids,No
+1181375,23,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1543404,18,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1866646,20,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1825776,19,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,No,Moderate,,,No
+1823173,18,Male,Normal,Yes,African American,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1943158,21,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1132577,38,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1892176,22,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1150157,20,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1925981,35,Male,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1425485,21,Male,Normal,No,African American,Underweight,Low,Insufficient,Sedentary,Yes,,,,No
+1605753,22,Male,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1642202,35,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1342533,29,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1600328,35,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1499370,19,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1604694,34,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1734504,34,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1301266,21,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,,,No
+1495408,22,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1489513,25,Male,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,No,,,,Yes
+1490304,19,Male,Normal,No,African American,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1408154,22,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1184663,21,Male,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1831263,29,Female,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1913332,38,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1930559,18,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1344371,19,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1130572,19,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1666158,26,Female,Normal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,No,,,Corticosteroids,No
+1796423,23,Female,Normal,No,African American,Underweight,Low,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1130683,25,Female,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,No,,,,No
+1717524,18,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1786839,19,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1426239,19,Male,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,,,Yes
+1447655,26,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,,,,Yes
+1197802,21,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1982379,20,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1109590,21,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1945122,26,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,,Yes
+1599685,19,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1660095,38,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1730577,21,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,,Yes
+1997813,35,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1407661,26,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,No,Moderate,,,No
+1475302,19,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1932879,26,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1987594,38,Male,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1927443,26,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,,,,No
+1872822,19,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1681634,19,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1562200,34,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1891196,18,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,No
+1487371,22,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1333811,20,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,No,,,Corticosteroids,Yes
+1645454,18,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,,,No
+1609424,21,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1826409,38,Male,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,No,,,,No
+1988074,29,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,No,Moderate,,,No
+1560165,34,Male,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1962887,19,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1129759,18,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1629582,21,Male,Normal,No,African American,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1320781,18,Female,Normal,Yes,Asian,Underweight,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1604429,29,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1645968,20,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1981137,18,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,No,Moderate,,,Yes
+1529216,20,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1180842,18,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1853193,21,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1361055,20,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1612727,18,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1650070,20,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1736043,25,Male,Normal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1384445,18,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1812889,19,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,,,Yes
+1675817,26,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1544807,29,Female,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1705006,18,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1132200,22,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1858681,19,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1457432,38,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1912267,18,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,,,Corticosteroids,Yes
+1756548,29,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1313229,21,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1825864,18,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1358938,18,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1515716,22,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1451547,23,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1583737,34,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1555325,35,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1857780,34,Male,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,No
+1654499,23,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1539753,22,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,No,,,,Yes
+1320301,38,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,,Yes
+1680097,18,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1560110,25,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1132966,29,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1272429,35,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1593615,21,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1704332,18,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1243394,25,Female,Normal,No,African American,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1946371,20,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,,,,Yes
+1303407,20,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,,Yes
+1486491,19,Male,Normal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1447516,20,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1417785,18,Male,Normal,Yes,African American,Underweight,Low,Sufficient,Sedentary,No,,,,No
+1736318,22,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1139856,38,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1943451,18,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1308573,21,Male,Normal,No,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1693234,22,Female,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1907817,26,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1814012,18,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1217424,19,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,,,Yes
+1575777,29,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1358753,34,Male,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1936747,29,Female,Normal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1129475,22,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1496727,23,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1177007,18,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1848818,21,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1263686,19,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1379379,19,Male,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1834760,18,Male,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,,,,No
+1487377,35,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,,,Yes
+1305062,19,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1269571,23,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1922863,35,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,No
+1549450,29,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1477800,21,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,,No
+1787530,20,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,No,,,,No
+1387541,34,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1866879,25,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1993733,22,Female,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1974401,23,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,,,Yes
+1371242,20,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1752093,19,Female,Normal,No,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1702988,19,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1267069,34,Male,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1671682,21,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1124704,21,Female,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1107571,34,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1457264,26,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1736445,29,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1167939,21,Female,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1118329,35,Male,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Sedentary,No,,,,No
+1158298,29,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,,,,Yes
+1987916,19,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,,,,Yes
+1781463,29,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1158005,18,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,,,Yes
+1253655,26,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1960902,35,Male,Normal,Yes,African American,Underweight,Low,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1234348,29,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,,Corticosteroids,Yes
+1603946,25,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Active,No,,,,Yes
+1476584,18,Male,Normal,No,Asian,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1980340,21,Male,Normal,Yes,African American,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,No
+1627900,22,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1822213,21,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1537626,34,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1489838,22,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1480612,23,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1770527,26,Female,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,,No
+1407270,20,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1868718,22,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1411281,22,Female,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1546572,25,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1597757,21,Female,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1692260,26,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1339477,29,Female,Normal,Yes,African American,Underweight,Low,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1936041,22,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1747298,19,Female,Normal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1960700,21,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Sedentary,No,Moderate,,,No
+1952326,19,Female,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1515393,21,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,,,No
+1985327,29,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1892479,18,Male,Normal,No,African American,Underweight,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,No
+1990788,26,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1928820,25,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,,,Corticosteroids,No
+1425439,34,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1897779,20,Female,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1258320,22,Female,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Active,No,,,,No
+1285689,23,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1692120,19,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,,,Yes
+1571925,19,Male,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1550928,35,Female,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1825383,22,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1235932,23,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1686035,20,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1312174,29,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1201852,19,Male,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1999328,18,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1946723,19,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1320455,26,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1379704,26,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1686303,29,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1611334,18,Male,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1490383,20,Male,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,,Yes
+1437029,18,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1572064,21,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1866587,25,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1404277,18,Female,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1571296,19,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,,,Yes
+1611920,18,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1965046,29,Male,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1435969,29,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,,,No
+1522212,20,Female,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,,Yes
+1726779,21,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1107249,20,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,Moderate,,,No
+1442127,21,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1960266,29,Female,Normal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1396002,21,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1923107,21,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,No,Moderate,,,Yes
+1721635,20,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1331490,18,Male,Normal,No,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1117505,20,Female,Normal,No,African American,Underweight,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1195065,29,Male,Normal,No,Asian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1945040,22,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1553263,19,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1939625,18,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1615631,25,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,,Corticosteroids,Yes
+1839428,29,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1706622,34,Male,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1341716,20,Male,Normal,No,African American,Normal,Low,Sufficient,Sedentary,No,,,,No
+1758660,22,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1257928,34,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,,,No
+1904951,19,Female,Normal,No,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,,,Yes
+1874165,21,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1370701,26,Male,Normal,No,Asian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1138128,20,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1870317,21,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1536450,20,Female,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1307176,29,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1894789,21,Female,Normal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1230327,18,Female,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1166954,29,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1436560,34,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1427439,20,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1683813,18,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1220904,19,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1558980,18,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1236882,20,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1833968,21,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,,,Yes
+1227785,19,Female,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Active,Yes,Moderate,,,No
+1841386,34,Female,Normal,No,African American,Underweight,Low,Insufficient,Active,Yes,,,Corticosteroids,Yes
+1230002,20,Female,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,No,,,Corticosteroids,No
+1218788,34,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1319796,29,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1607850,38,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1725687,34,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1626868,25,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1798459,18,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1165164,34,Male,Normal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1836709,18,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1797931,20,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1726849,25,Female,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1334559,34,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1667789,20,Male,Normal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,,No
+1277086,18,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1444085,20,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1925217,21,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1778907,21,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1878937,29,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1242264,18,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1335552,19,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,Yes,Moderate,,,Yes
+1177855,25,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1871001,19,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,,Corticosteroids,Yes
+1193433,18,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1117402,20,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1717228,23,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1784565,21,Female,Normal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1355959,29,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1707937,25,Male,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1431307,20,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1219210,25,Female,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1662190,29,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1463528,29,Female,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1642956,18,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1546091,26,Female,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1961692,25,Male,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1547651,20,Male,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1303149,25,Male,Postmenopausal,No,Asian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1570910,19,Female,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1798601,19,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,,,No
+1873790,19,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,No,Moderate,,,No
+1770200,22,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1340251,29,Male,Normal,No,Asian,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1503369,23,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1351541,20,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1128858,22,Male,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,,No
+1828871,21,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1798094,21,Female,Normal,Yes,African American,Underweight,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1880801,35,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,,,,Yes
+1351560,19,Female,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1234695,18,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,,,,Yes
+1157440,35,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1340655,29,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1901691,22,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1693485,19,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1531916,21,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,,,Yes
+1742441,25,Male,Normal,No,African American,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1868694,25,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1405306,29,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1532229,29,Female,Postmenopausal,No,African American,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1273596,19,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,,,,Yes
+1626690,26,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,,,,No
+1944920,19,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1917450,18,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1257571,34,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1100603,20,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1271134,18,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,,,Corticosteroids,No
+1766638,22,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1163313,22,Female,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,,,No
+1535297,20,Female,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,No,,,Corticosteroids,Yes
+1996620,20,Female,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1482981,20,Male,Normal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1351012,25,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1986755,34,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,,,No
+1689625,18,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Active,No,Moderate,,,Yes
+1943901,18,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1365358,21,Female,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,Moderate,,,No
+1629189,34,Male,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,No,,,,Yes
+1154429,21,Male,Normal,Yes,African American,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1631702,18,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1715801,34,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1851848,29,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,,Corticosteroids,No
+1828061,18,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1619172,29,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1781601,22,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,,Corticosteroids,No
+1497359,34,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1466923,29,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,,,No
+1952354,22,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1539355,26,Female,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,,,No
+1889941,26,Male,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1706464,25,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1690171,19,Female,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1125200,18,Male,Normal,No,African American,Normal,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1193803,21,Male,Normal,No,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1432566,21,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1727878,22,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,,Yes
+1596663,19,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,,,,Yes
+1110844,22,Female,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1266820,21,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1595477,18,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1268556,34,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1857976,38,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1988699,19,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1306326,34,Female,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1636405,19,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1575808,29,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1700351,18,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1450549,20,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,,Corticosteroids,Yes
+1279231,29,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1749346,19,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1127976,34,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1729415,18,Male,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1622692,19,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1415087,34,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1471676,21,Female,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1445948,19,Male,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1519249,20,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1860215,19,Female,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1147102,18,Male,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1745489,23,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,,Yes
+1203623,18,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1395794,19,Female,Normal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1251683,18,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1801192,21,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1671009,21,Female,Normal,Yes,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1834700,19,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1858139,38,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Active,No,,,Corticosteroids,No
+1185349,23,Male,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1504992,25,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1397646,25,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1834722,35,Male,Normal,Yes,Asian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1735966,19,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1998628,25,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,,,Corticosteroids,No
+1308631,19,Male,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1907820,21,Male,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Active,No,,,,Yes
+1261530,34,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1500880,18,Female,Normal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1283764,25,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1448817,18,Female,Normal,Yes,Asian,Underweight,Low,Sufficient,Active,No,Moderate,,,No
+1984557,34,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,,Corticosteroids,Yes
+1368723,23,Female,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1991469,20,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1368766,34,Male,Normal,Yes,African American,Normal,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1738104,23,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,No,,,Corticosteroids,No
+1484384,34,Female,Postmenopausal,No,African American,Normal,Low,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1392948,20,Male,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1386350,34,Female,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1260058,19,Female,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,,,No
+1153200,18,Female,Normal,No,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1298283,22,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1822847,34,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,No,,,Corticosteroids,Yes
+1425483,22,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1245365,18,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1512988,18,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,,Corticosteroids,Yes
+1696146,21,Male,Normal,Yes,African American,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1459654,34,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1247484,22,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1273434,19,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,,,No
+1304228,19,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1429710,34,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,,,Yes
+1221248,18,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,,Corticosteroids,No
+1218469,35,Male,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1621106,18,Male,Normal,No,Asian,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1231120,20,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Active,No,,,Corticosteroids,Yes
+1737642,34,Male,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1560615,20,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1610085,19,Male,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1412109,20,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1719142,18,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1634078,22,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,Yes
+1561025,22,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,,Yes
+1552965,26,Male,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,No,,,,Yes
+1683661,29,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1570008,19,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1648315,29,Male,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1995067,22,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1550458,35,Male,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1170685,34,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1269893,20,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1978485,18,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1666086,18,Female,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1364084,19,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,,,Yes
+1563585,19,Male,Normal,No,African American,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1699406,22,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,,,,Yes
+1910785,34,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,,,,No
+1531729,20,Male,Normal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1589139,25,Female,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1566800,18,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1406452,26,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,,,No
+1148649,25,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1613341,38,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1539817,26,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1816342,34,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1308017,23,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1656698,34,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1931968,38,Female,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1870787,20,Male,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1241404,22,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1836179,34,Male,Normal,No,Caucasian,Underweight,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1437192,25,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,,,No
+1781341,18,Female,Normal,No,African American,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1235062,29,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1873340,18,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,,,Yes
+1172224,21,Male,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1703405,21,Female,Normal,No,African American,Normal,Low,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1241460,26,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Active,No,,,,Yes
+1524971,21,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1697630,29,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1167160,19,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,,No
+1657559,18,Male,Normal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1289723,26,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1753965,19,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,,,Yes
+1497967,25,Male,Normal,Yes,Asian,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1544600,22,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1575625,29,Female,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1288151,23,Male,Postmenopausal,No,Asian,Normal,Low,Sufficient,Active,No,Moderate,,,Yes
+1593355,19,Male,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,,,,No
+1250599,34,Male,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1919103,20,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1429421,35,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1369520,21,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1640004,19,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1773484,21,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,Yes
+1809647,21,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,,No
+1430269,23,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,,,,No
+1455661,22,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1245770,29,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1899671,29,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1152612,34,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1894969,25,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,,,No
+1873330,21,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1821729,21,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1385696,22,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1449855,26,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,,,,Yes
+1486366,29,Female,Postmenopausal,Yes,Asian,Underweight,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1920855,29,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1281420,22,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1221924,20,Female,Normal,No,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1842002,25,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1995588,18,Female,Normal,No,Asian,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,,Yes
+1868358,23,Female,Normal,No,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,,Yes
+1607722,19,Female,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1829006,29,Male,Normal,No,African American,Underweight,Low,Insufficient,Active,No,,,,Yes
+1541067,19,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1374185,18,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1344730,26,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,,Yes
+1880659,35,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1279276,18,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1478877,29,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1423450,35,Male,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Sedentary,No,,,Corticosteroids,No
+1499016,19,Male,Normal,No,African American,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1635937,19,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1291317,20,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,,Yes
+1871065,18,Female,Normal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1898854,34,Male,Normal,No,African American,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1541430,38,Male,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1538895,22,Male,Normal,No,African American,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1477387,29,Female,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,,,Corticosteroids,No
+1522644,23,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,Corticosteroids,No
+1988126,20,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,No,,,Corticosteroids,Yes
+1548826,23,Male,Normal,No,African American,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1929833,19,Male,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,,,,No
+1539220,19,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1713962,21,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1737476,35,Male,Normal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1984588,18,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,,,No
+1387323,26,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1937158,19,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Active,Yes,,,Corticosteroids,No
+1527297,18,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1144933,22,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1368869,21,Female,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,No
+1982201,19,Male,Normal,No,Caucasian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1871424,29,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1165165,19,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1598247,34,Male,Normal,No,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1144215,22,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1682273,35,Female,Normal,No,African American,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1932786,29,Female,Normal,No,African American,Normal,Adequate,Insufficient,Active,Yes,,,Corticosteroids,Yes
+1228375,23,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1369896,34,Female,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,Yes,,,,Yes
+1134626,29,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1150358,20,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1777784,23,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1439824,38,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1859605,34,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,,,No
+1293488,22,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1969589,21,Female,Normal,No,African American,Normal,Adequate,Sufficient,Active,No,,,,Yes
+1302871,20,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1877622,21,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1770530,38,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,No
+1669680,35,Male,Normal,No,African American,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,,No
+1366511,35,Male,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1835947,38,Male,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,,,Yes
+1737404,35,Male,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Active,No,,,,Yes
+1693683,29,Female,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1257139,21,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1956838,29,Female,Normal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1298361,22,Female,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1138564,25,Female,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1209243,19,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1873478,34,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,Moderate,,,Yes
+1999676,20,Female,Normal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1824377,18,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1227407,19,Female,Normal,No,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1411788,34,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1343463,19,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,,,Yes
+1995421,29,Male,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1804430,35,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1609032,35,Male,Normal,No,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1553365,25,Male,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1755181,19,Female,Normal,No,African American,Normal,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,No
+1754840,34,Female,Postmenopausal,No,Asian,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1157544,26,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1223725,34,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1923927,21,Female,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1243806,34,Male,Postmenopausal,No,African American,Normal,Low,Sufficient,Active,No,Moderate,,,No
+1618266,29,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1960128,38,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1307784,26,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No
+1540563,34,Male,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1923942,34,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Active,No,,Hyperthyroidism,,No
+1992161,19,Female,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1281919,21,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,,,,Yes
+1684967,20,Male,Normal,Yes,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,Yes
+1275956,22,Female,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1915985,21,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1350343,22,Female,Normal,No,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,,,No
+1412952,23,Male,Postmenopausal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,,No
+1300416,18,Female,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1125414,29,Female,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1270342,34,Female,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1882718,19,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Active,No,Moderate,,,Yes
+1272880,29,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1929403,34,Female,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1768492,20,Female,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1114185,26,Male,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1775450,23,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,,,No
+1635132,29,Female,Normal,No,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1610687,34,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,,Corticosteroids,Yes
+1270173,19,Male,Normal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1160142,29,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,No
+1169020,22,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,,,,No
+1999319,18,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1684861,34,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,No,,,,Yes
+1791360,35,Male,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,,Corticosteroids,No
+1662967,18,Male,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1514786,21,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,No,,Hyperthyroidism,,No
+1164010,18,Female,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1599383,35,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1759335,19,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1709626,35,Male,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1814244,29,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,,Hyperthyroidism,,No
+1380633,34,Female,Normal,Yes,Asian,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1696253,21,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1884327,26,Female,Normal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1908151,23,Male,Postmenopausal,No,Asian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,No
+1568235,34,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1481929,20,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1397632,22,Male,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1228305,21,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,Rheumatoid Arthritis,,No
+1898821,23,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1461706,18,Male,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1399643,35,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,,,,Yes
+1708937,19,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,No,,,,No
+1333199,18,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,,Corticosteroids,Yes
+1413653,25,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,Yes
+1372430,20,Female,Postmenopausal,No,African American,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1303604,22,Female,Normal,Yes,African American,Normal,Low,Insufficient,Active,Yes,,,Corticosteroids,Yes
+1235986,21,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1872422,19,Male,Normal,No,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1410713,34,Male,Normal,Yes,Asian,Normal,Adequate,Insufficient,Active,Yes,,,,Yes
+1861712,34,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1226589,19,Male,Normal,No,African American,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,Yes
+1338091,22,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1863152,22,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1654887,18,Female,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1531867,21,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,,Yes
+1596185,29,Male,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1911717,21,Male,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1429563,23,Female,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1707443,19,Male,Normal,No,African American,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1175442,20,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,,,,Yes
+1346920,23,Female,Normal,No,African American,Underweight,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1499451,34,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,Yes
+1507281,22,Female,Normal,Yes,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1940819,19,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1422655,34,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No
+1249528,21,Male,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Sedentary,Yes,,,,No
+1429355,20,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1278217,22,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1222642,34,Female,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1354748,20,Female,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1595935,20,Female,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1533234,29,Female,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1282644,18,Female,Postmenopausal,No,Asian,Underweight,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1175926,34,Male,Normal,No,Asian,Underweight,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1875513,29,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,No,,Rheumatoid Arthritis,,No
+1158801,19,Female,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1153602,25,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1491283,18,Male,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1140551,18,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,No,Moderate,,Corticosteroids,No
+1723943,34,Male,Postmenopausal,Yes,African American,Underweight,Low,Sufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1980260,19,Female,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1429680,19,Female,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,Yes,,,,Yes
+1859078,19,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1360926,19,Female,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1647780,18,Female,Postmenopausal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1575380,34,Male,Normal,Yes,Asian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1613240,21,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1747665,29,Male,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1349276,35,Female,Normal,Yes,Asian,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,No
+1759070,34,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,Yes,,,,No
+1793848,20,Female,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No
+1370874,20,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes
+1566003,19,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,,Hyperthyroidism,,No
+1602720,22,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Active,No,Moderate,,,Yes
+1185353,23,Female,Normal,Yes,Caucasian,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,,Yes
+1550064,29,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Active,No,Moderate,,,No
+1650844,38,Male,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,,No
+1532021,38,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1109782,21,Male,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1299705,19,Female,Normal,No,African American,Normal,Low,Sufficient,Active,Yes,,,Corticosteroids,No
+1500862,22,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,Yes
+1887626,26,Male,Normal,No,African American,Normal,Adequate,Insufficient,Active,No,,,Corticosteroids,No
+1216111,25,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1963337,29,Female,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1287035,20,Male,Normal,No,African American,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1444199,29,Female,Normal,No,Caucasian,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1896508,34,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1109249,22,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,,,No
+1376136,18,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1205791,19,Female,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Active,No,,,Corticosteroids,Yes
+1316045,18,Female,Normal,No,African American,Normal,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,,No
+1215887,18,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,Yes,,,,No
+1765388,18,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1354298,29,Female,Normal,Yes,African American,Normal,Low,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,No
+1614676,19,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1687350,29,Female,Normal,Yes,Caucasian,Normal,Low,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1566527,35,Male,Normal,No,Asian,Underweight,Low,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1481072,19,Female,Normal,No,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1277006,20,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,,Yes
+1181185,35,Male,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,,,,No
+1791805,34,Male,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1225946,18,Male,Normal,No,African American,Normal,Adequate,Insufficient,Active,No,,,Corticosteroids,No
+1698553,18,Female,Normal,Yes,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1100492,35,Female,Postmenopausal,No,Asian,Normal,Low,Insufficient,Sedentary,No,Moderate,,,Yes
+1746576,25,Female,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,Yes
+1310421,19,Female,Normal,No,Caucasian,Normal,Adequate,Sufficient,Sedentary,Yes,,,,Yes
+1871282,29,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,No,,,Corticosteroids,No
+1161534,29,Female,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1418608,26,Female,Postmenopausal,Yes,African American,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,No
+1658562,18,Female,Postmenopausal,Yes,Asian,Normal,Low,Insufficient,Sedentary,No,,,,Yes
+1651789,25,Female,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,No,Moderate,Rheumatoid Arthritis,,Yes
+1955374,26,Female,Postmenopausal,Yes,African American,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1196311,20,Female,Postmenopausal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1781480,20,Female,Normal,No,Caucasian,Normal,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1591218,29,Male,Normal,Yes,African American,Normal,Low,Insufficient,Active,Yes,Moderate,,,No
+1938777,21,Female,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1867888,23,Female,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,No
+1773861,29,Female,Normal,No,African American,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1843837,18,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1190006,29,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes
+1943294,20,Male,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,Yes,Moderate,,,Yes
+1326330,34,Male,Normal,No,Caucasian,Underweight,Adequate,Sufficient,Active,Yes,Moderate,,,Yes
+1483454,34,Male,Postmenopausal,No,Caucasian,Underweight,Adequate,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,No
+1379976,26,Male,Normal,No,Asian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1818599,34,Male,Normal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1412346,34,Female,Normal,Yes,Asian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1607798,21,Male,Postmenopausal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1239807,19,Male,Postmenopausal,Yes,Caucasian,Normal,Low,Insufficient,Active,Yes,,,,No
+1411860,26,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Active,No,Moderate,,Corticosteroids,Yes
+1964247,18,Male,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,No,,Hyperthyroidism,,Yes
+1503303,19,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,,,Yes
+1589857,26,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1770621,38,Male,Postmenopausal,No,Caucasian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1268749,19,Female,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1209949,21,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Active,No,,,Corticosteroids,Yes
+1736754,26,Male,Normal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,,,Yes
+1247161,26,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1845319,34,Female,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,,Yes
+1533662,20,Male,Normal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,,,Yes
+1463024,26,Female,Postmenopausal,No,Asian,Normal,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1126878,18,Female,Normal,No,Caucasian,Underweight,Low,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1475373,29,Male,Postmenopausal,No,Asian,Underweight,Low,Sufficient,Sedentary,Yes,,,,No
+1728019,18,Male,Normal,Yes,Caucasian,Normal,Adequate,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,,No
+1866193,20,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Active,No,,Hyperthyroidism,,Yes
+1205606,18,Male,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1404990,21,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Sufficient,Active,Yes,Moderate,,Corticosteroids,Yes
+1478178,18,Male,Postmenopausal,Yes,Asian,Normal,Low,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1815941,19,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes
+1464524,19,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1774387,25,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1771101,21,Male,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,No,Moderate,,Corticosteroids,No
+1759705,34,Female,Normal,Yes,Asian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,,,No
+1941555,21,Male,Postmenopausal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1787192,34,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Sedentary,Yes,,,Corticosteroids,No
+1794950,21,Female,Normal,No,Caucasian,Underweight,Adequate,Insufficient,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1365960,34,Female,Normal,Yes,African American,Normal,Adequate,Insufficient,Active,Yes,Moderate,,Corticosteroids,No
+1134252,19,Male,Postmenopausal,Yes,Caucasian,Underweight,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No
+1686450,38,Male,Normal,No,Caucasian,Normal,Low,Insufficient,Active,No,,,,No
+1100440,38,Female,Postmenopausal,No,African American,Underweight,Adequate,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1803577,29,Male,Normal,No,African American,Normal,Adequate,Insufficient,Sedentary,Yes,,,,Yes
+1906696,18,Female,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,No
+1523429,18,Male,Normal,No,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,,Corticosteroids,Yes
+1490834,18,Male,Normal,No,Caucasian,Normal,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1109535,22,Female,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+1611599,20,Female,Postmenopausal,No,Asian,Underweight,Low,Sufficient,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes
+1568411,22,Female,Normal,Yes,African American,Normal,Low,Insufficient,Sedentary,No,,Rheumatoid Arthritis,,No
+1768945,20,Male,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1282944,18,Female,Normal,No,Asian,Normal,Low,Insufficient,Active,No,Moderate,,,Yes
+1892111,21,Male,Normal,Yes,African American,Underweight,Adequate,Sufficient,Active,Yes,,Rheumatoid Arthritis,,Yes
+1985293,20,Male,Normal,Yes,African American,Underweight,Low,Insufficient,Active,No,Moderate,Hyperthyroidism,,No
+1226505,29,Male,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,Moderate,,,Yes
+1889601,34,Female,Normal,No,African American,Underweight,Adequate,Sufficient,Active,No,,,,Yes
+1765280,18,Female,Postmenopausal,Yes,African American,Underweight,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1318705,22,Female,Normal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,,,No
+1941872,22,Male,Postmenopausal,Yes,African American,Normal,Low,Sufficient,Active,Yes,Moderate,,Corticosteroids,No
+1858867,20,Male,Postmenopausal,No,African American,Underweight,Low,Insufficient,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No
+1789413,26,Female,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Hyperthyroidism,,No
+1939846,22,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,No
+1137807,26,Male,Normal,Yes,Caucasian,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1475513,23,Female,Normal,No,African American,Normal,Adequate,Sufficient,Sedentary,Yes,,Hyperthyroidism,,No
+1735783,25,Female,Normal,No,Caucasian,Underweight,Low,Sufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No
+1117015,22,Female,Normal,Yes,Asian,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,,Yes
+1774312,19,Male,Normal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,No,,,Corticosteroids,No
+1563609,20,Male,Postmenopausal,No,African American,Normal,Adequate,Sufficient,Active,Yes,Moderate,,,Yes
+1188502,19,Male,Normal,No,African American,Underweight,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,Yes
+1245438,22,Male,Postmenopausal,Yes,Caucasian,Normal,Adequate,Insufficient,Active,Yes,Moderate,Hyperthyroidism,,No
+1546072,21,Male,Postmenopausal,No,African American,Normal,Adequate,Insufficient,Active,No,Moderate,,Corticosteroids,No
+1908870,19,Female,Normal,Yes,Asian,Normal,Adequate,Sufficient,Active,Yes,,Hyperthyroidism,,No
+1124694,22,Male,Postmenopausal,Yes,Asian,Underweight,Adequate,Insufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No
+1106829,18,Male,Normal,Yes,African American,Underweight,Adequate,Insufficient,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes
+1822798,25,Male,Postmenopausal,No,Asian,Normal,Adequate,Insufficient,Sedentary,Yes,Moderate,,,Yes
+1108522,21,Female,Postmenopausal,Yes,Asian,Normal,Adequate,Sufficient,Sedentary,No,,Hyperthyroidism,Corticosteroids,No
+1824565,35,Female,Postmenopausal,Yes,Caucasian,Normal,Low,Sufficient,Active,Yes,,,,Yes
+1137229,22,Female,Normal,No,Asian,Normal,Adequate,Sufficient,Active,Yes,,,Corticosteroids,No
+1957629,23,Male,Postmenopausal,No,Caucasian,Normal,Low,Insufficient,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes
+1991635,19,Female,Normal,Yes,African American,Normal,Adequate,Sufficient,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes
+1528601,23,Female,Postmenopausal,Yes,Caucasian,Underweight,Low,Insufficient,Active,No,,,Corticosteroids,No
+1990957,34,Female,Postmenopausal,No,African American,Underweight,Low,Sufficient,Sedentary,No,,Hyperthyroidism,,No
+1779848,25,Male,Postmenopausal,No,African American,Normal,Low,Insufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes
+1282963,26,Female,Postmenopausal,No,African American,Underweight,Adequate,Sufficient,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No
