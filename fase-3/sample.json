@@ -1,0 +1,16 @@
+{
+  "age": 72,
+  "gender": "Female",
+  "hormonal_changes": "Postmenopausal",
+  "family_history": "Yes",
+  "race_ethnicity": "Caucasian",
+  "body_weight": "Underweight",
+  "calcium_intake": "Low",
+  "vitamin_d_intake": "Insufficient",
+  "physical_activity": "Active",
+  "smoking": "No",
+  "alcohol_consumption": "Moderate",
+  "medical_conditions": "Hyperthyroidism",
+  "medications": "Corticosteroids",
+  "prior_fractures": "Yes"
+}
