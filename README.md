@@ -18,3 +18,13 @@ docker build -t models_scripts
 
 Para correr el contenedor:
 docker run -it --rm models_scripts
+
+# Fase 3
+Para ejecutar los endpoints con éxito:
+
+Descargar las dependencias (Crear ambiente virtual):
+python3 -m venv venv
+pip install -r requirements.txt
+
+Para correr la aplicacion:
+fastapi dev apirest.py
